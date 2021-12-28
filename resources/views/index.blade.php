@@ -52,7 +52,7 @@
                     </li>
                     <li class="item item-ad">
                       <div class="media">
-                        <div class="blue-color media-left"><a href="#"><i class="icon icon-Media"></i></a></div>
+                        <div class="blue-color media-left"><a href="#"><i class="icon icon-Eye"></i></a></div>
                         <div class="media-body">
                           <p>Instagram<br><span>@ecohouseautomacao</span></p>
                         </div>
@@ -192,21 +192,21 @@
           <div class="col-sm-4 service-info">
             <div class="item"><a href="agricultural.html" class="post-image view image_hover">			<img src="images/services/cisternas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Instalação de Cisternas</h4></a>
-              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <p>O preço para instalação de cisterna varia de acordo com a escolha da cisterna, mão de obra e outros materiais necessarios para conclusão do serviço.</p>
               <h6><a href="mechanical.html">Ver Mais</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
             <div class="item"><a href="agricultural.html" class="post-image view image_hover"><img src="images/services/calhas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Instalação de Calhas</h4></a>
-              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <p>incluindo somente a limpeza das calhas, fica em torno de R$ 10,00 o m², para imóveis de um andar, ou cerca de R$ 15,00 o m², para aqueles que possuem dois ou mais andares.</p>
               <h6><a href="agricultural.html">Ver Mais</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
             <div class="item"><a href="oil.html" class="post-image view image_hover">		<img src="images/services/telhas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="oil.html">
                 <h4>Lavação de Calhas e Telhas</h4></a>
-              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <p>Incluindo a limpeza das calhas e das telhas, fica em torno de R$ 15,00 o m², para imóveis de um andar, ou cerca de R$ 20,00 o m², para aqueles que possuem dois ou mais andares.</p>
               <h6><a href="oil.html">Ver Mais</a></h6>
             </div>
           </div>
