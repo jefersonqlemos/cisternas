@@ -46,15 +46,15 @@
                       <div class="media">
                         <div class="blue-color media-left"><a href="#"><i class="icon icon-Phone2"></i></a></div>
                         <div class="media-body">
-                          <p> (49) 99920-8805 <br><span><a href="mailto:info@industrial.com">ecohouseautomacao@hotmail.com</a></span></p>
+                          <p> (49) 99161-2223 <br><span><a href="mailto:ecohouseautomacao@outlook.com">ecohouseautomacao@outlook.com</a></span></p>
                         </div>
                       </div>
                     </li>
                     <li class="item item-ad">
                       <div class="media">
-                        <div class="blue-color media-left"><a href="#"><i class="icon icon-Pointer"></i></a></div>
+                        <div class="blue-color media-left"><a href="#"><i class="icon icon-Media"></i></a></div>
                         <div class="media-body">
-                          <p>R. Ema Schimdt<br><span>Santa Catarina, Videira</span></p>
+                          <p>Instagram<br><span>@ecohouseautomacao</span></p>
                         </div>
                       </div>
                     </li>
@@ -70,7 +70,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-3 col-sm-12 col-xs-12">
-              <div class="logo"><img src="images/logo-mobile.png" alt=""></div>
+              <div class="logo"><img src="images/header/logo-mobile.png" alt=""></div>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
               <div class="nav-menu pull-left text-left">
@@ -98,7 +98,7 @@
                       <li class="has-t-submenu"><a href="about.html">contato</a>
                       </li>
                     </ul>
-                    <div class="mobile-link"><a href="request-qoute.html" class="submit">Faça Orçamento</a>
+                    <!--<div class="mobile-link"><a href="request-qoute.html" class="submit">Faça Orçamento</a>
                       <div class="widget-t widget-t-search">
                         <div class="widget-t-inner">
                           <form action="#" method="get" class="search-form">
@@ -108,12 +108,12 @@
                             </div>
                           </form>
                         </div>
-                      </div>
+                      </div>-->
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="nav-search pull-right text-right">
+              <!--<div class="nav-search pull-right text-right">
                 <div class="widget-t widget-t-search">
                   <div class="widget-t-inner">
                     <form action="#" method="get" class="search-form">
@@ -124,7 +124,7 @@
                     </form>
                   </div>
                 </div>
-              </div>
+              </div>-->
             </div>
           </div>
         </div>
@@ -135,7 +135,7 @@
     <div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider full_width ver_new_1_slider">
       <!-- Wrapper for slides-->
       <div role="listbox" class="carousel-inner">
-        <div style="background-image: url(images/slider/homepage/cisternas.jpg);" class="item active">
+        <div style="background-image: url(images/slider/homepage/cisternas2.jpg);" class="item active">
           <div class="carousel-caption">
             <div class="thm-container">
               <div class="box valign-top">
@@ -147,7 +147,7 @@
             </div>
           </div>
         </div>
-        <div style="background-image: url(images/slider/homepage/calhas.jpg);" class="item">
+        <div style="background-image: url(images/slider/homepage/calhas2.jpg);" class="item">
           <div class="carousel-caption">
             <div class="thm-container">
               <div class="box valign-top">
@@ -159,7 +159,7 @@
             </div>
           </div>
         </div>
-        <div style="background-image: url(images/slider/homepage/telhas.jpg);" class="item">
+        <div style="background-image: url(images/slider/homepage/telhas2.jpg);" class="item">
           <div class="carousel-caption">
             <div class="thm-container">
               <div class="box valign-top">
@@ -193,25 +193,25 @@
             <div class="item"><a href="agricultural.html" class="post-image view image_hover">			<img src="images/services/cisternas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Instalação de Cisternas</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
-              <h6><a href="mechanical.html">Read more</a></h6>
+              <h6><a href="mechanical.html">Ver Mais</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
             <div class="item"><a href="agricultural.html" class="post-image view image_hover"><img src="images/services/calhas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Instalação de Calhas</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
-              <h6><a href="agricultural.html">Read more</a></h6>
+              <h6><a href="agricultural.html">Ver Mais</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
             <div class="item"><a href="oil.html" class="post-image view image_hover">		<img src="images/services/telhas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="oil.html">
                 <h4>Lavação de Calhas e Telhas</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
-              <h6><a href="oil.html">Read more</a></h6>
+              <h6><a href="oil.html">Ver Mais</a></h6>
             </div>
           </div>
         </div>
-        <div class="row">
+        <!--<div class="row">
           <div class="col-sm-4 service-info">
             <div class="item"><a href="power.html" class="post-image view image_hover"><img src="images/services/ser-img4.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="power.html">
                 <h4>power and engery</h4></a>
@@ -233,7 +233,7 @@
               <h6><a href="meterial.html">Read more</a></h6>
             </div>
           </div>
-        </div>
+        </div>-->
       </div>
     </section>
     <!-- We offer Different Services-->
@@ -281,9 +281,9 @@
             <div class="testimonialn-slider">
               <div class="item">
                 <div class="name-content clearfix">
-                  <div class="tst-img"><img src="images/testimonial/test-img2.png" alt=""></div>
+                  <div class="tst-img"><img src="images/testimonial/william.jpg" alt=""></div>
                   <div class="client-name">
-                    <p>Industrial is great firm<span>Michale John (CEO & Founder)</span></p>
+                    <p><span>Wiliam Valter(CEO & Founder)</span></p>
                     <ul>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -296,13 +296,14 @@
                 <div class="content clearfix">
                   <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum</p>
                 </div>
-                <div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>
+                <br><br>
+                <!--<div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>-->
               </div>
               <div class="item">
                 <div class="name-content clearfix">
-                  <div class="tst-img"><img src="images/testimonial/test-img2.png" alt=""></div>
+                  <div class="tst-img"><img src="images/testimonial/william.jpg" alt=""></div>
                   <div class="client-name">
-                    <p>Industrial is great firm<span>Michale John (CEO & Founder)</span></p>
+                    <p><span>Wiliam Valter(CEO & Founder)</span></p>
                     <ul>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -315,13 +316,14 @@
                 <div class="content clearfix">
                   <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum</p>
                 </div>
-                <div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>
+                <br><br>
+                <!--<div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>-->
               </div>
               <div class="item">
                 <div class="name-content clearfix">
-                  <div class="tst-img"><img src="images/testimonial/test-img2.png" alt=""></div>
+                  <div class="tst-img"><img src="images/testimonial/william.jpg" alt=""></div>
                   <div class="client-name">
-                    <p>Industrial is great firm<span>Michale John (CEO & Founder)</span></p>
+                  <p><span>Wiliam Valter(CEO & Founder)</span></p>
                     <ul>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -334,7 +336,8 @@
                 <div class="content clearfix">
                   <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum</p>
                 </div>
-                <div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>
+                <br><br>
+                <!--<div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>-->
               </div>
             </div>
           </div>
@@ -360,13 +363,11 @@
       <div class="container clearfix">
         <div class="row">
           <div class="widget about-us-widget col-md-3 col-sm-6"><a href="#"><img src="images/header/logo.png" alt=""></a>
-            <p>Lorem ipsum dolor sit amet, consectet ur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali qua. Ut enim ad minim.</p><a href="about.html">Read More <i class="fa fa-angle-double-right"></i></a>
+            <p>Siga em nossas redes sociais instagram, facebook e twitter.</p><!--<a href="about.html">Read More <i class="fa fa-angle-double-right"></i></a>-->
             <ul class="nav">
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+              <li><a href="https://www.instagram.com/ecohouseautomacao/"><i class="fa fa-instagram"></i></a></li>
               <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
-              <li><a href="#"><i class="fa fa-skype"></i></a></li>
-              <li><a href="#"><i class="fa fa-pinterest-square"></i></a></li>
             </ul>
           </div>
           <div class="widget widget-links col-md-3 col-sm-6">
@@ -399,7 +400,7 @@
                   <div class="fleft location_address">R. Ema Schimdt, Santa Catarina, Videira</div>
                 </li>
                 <li><i class="fa fa-phone"></i>
-                  <div class="fleft contact_no"><a href="#">49 99999 9999</a></div>
+                  <div class="fleft contact_no"><a href="#">49 99161 2223</a></div>
                 </li>
                 <li><i class="fa fa-envelope-o"></i>
                   <div class="fleft contact_mail"><a href="mailto:info@woodworkshop.com">ecohouseautomacao@outlook.com</a></div>
