@@ -294,16 +294,7 @@
                   </div>
                 </div>
                 <div class="content clearfix">
-                  <p>NASCIDO E CRIADO POR UMA FAMILIA HUMILDE, SEMPRE
-TIVE A IDEIA DE EMPRENDER, MESMO MUITOS TENDO UMA VISAO DIFERENTE POR EMPRENDER,
-VEJO SEMPRE NOVAS OPORTUNIDADES, TODOS TEMOS DIFICULDADES NA VIDA, POREM SÓ
-POUCOS VEEM NELAS UMA FORMA DE NEGOCIO, BARREIRAS TEMOS TODOS OS DIAS, POREM
-SEMPRE QUE PENSAMOS EM DESISTIR, LEMBRESSE, NADA VEM FACIL, APÓS CRIAR MINHA
-PRIMEIRA EMPRESA COMECEI VER NOVOS RUMOS E HORIZONTES, A MENTE FICA CRIANDO SEMPRE
-NOVAS IDEIAS, ASSIM SURGIU A IDEIA DE ENTRAR EM UNS DOS MAIORES MERCADOS DO FURUTO,
-O MERCADO DE CASAS AUTOSUSTENTAVEIS E INTELIGENTES, CRIANDO A ECO HOUSE E
-AUTOMAÇÃO, PENSANDO EM LEVAR PARA TODOS FORMAS DE FACILITAR A VIDA COTIDIANA E
-AUXILIAR O MEIO AMBIENTE PENSANDO EM FUTURO MELHOR.</p>
+                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum</p>
                 </div>
                 <br><br>
                 <!--<div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>-->
