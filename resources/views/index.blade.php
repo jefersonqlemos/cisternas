@@ -135,7 +135,7 @@
     <div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider full_width ver_new_1_slider">
       <!-- Wrapper for slides-->
       <div role="listbox" class="carousel-inner">
-        <div style="background-image: url(images/slider/homepage/cisternas2.jpg);" class="item active">
+        <div style="background-image: url(images/slider/homepage/cisternas3.jpg);" class="item active">
           <div class="carousel-caption">
             <div class="thm-container">
               <div class="box valign-top">
@@ -273,7 +273,7 @@
     <!-- Control in compliance-->
     <!-- Our Services natural resource-->
     <section class="fluid-service-area-home">
-      <div class="work-image-ser"><img src="images/services/ser-img-left.jpg" alt=""></div>
+      <div class="work-image-ser"><img src="images/services/tecnotri.jpg" alt=""></div>
       <div class="service-promo">
         <div class="service-t-content">
           <div class="test-quote-sec"><img src="images/testimonial/quote-n.png" alt=""></div>
