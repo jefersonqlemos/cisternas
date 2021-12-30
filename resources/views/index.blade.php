@@ -294,7 +294,16 @@
                   </div>
                 </div>
                 <div class="content clearfix">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum</p>
+                  <p>Nascido e criado por uma familia humilde, sempre
+tive a ideia de emprender, mesmo muitos tendo uma visao diferente por emprender,
+vejo sempre novas oportunidades, todos temos dificuldades na vida, porem só
+poucos veem nelas uma forma de negocio, barreiras temos todos os dias, porem
+sempre que pensamos em desistir, lembresse, nada vem facil, após criar minha
+primeira empresa comecei ver novos rumos e horizontes, a mente fica criando sempre
+novas ideias, assim surgiu a ideia de entrar em uns dos maiores mercados do furuto,
+o mercado de casas autosustentaveis e inteligentes, criando a eco house e
+automação, pensando em levar para todos formas de facilitar a vida cotidiana e
+auxiliar o meio ambiente pensando em futuro melhor.</p>
                 </div>
                 <br><br>
                 <!--<div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>-->
@@ -314,7 +323,16 @@
                   </div>
                 </div>
                 <div class="content clearfix">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum</p>
+                  <p>Nascido e criado por uma familia humilde, sempre
+tive a ideia de emprender, mesmo muitos tendo uma visao diferente por emprender,
+vejo sempre novas oportunidades, todos temos dificuldades na vida, porem só
+poucos veem nelas uma forma de negocio, barreiras temos todos os dias, porem
+sempre que pensamos em desistir, lembresse, nada vem facil, após criar minha
+primeira empresa comecei ver novos rumos e horizontes, a mente fica criando sempre
+novas ideias, assim surgiu a ideia de entrar em uns dos maiores mercados do furuto,
+o mercado de casas autosustentaveis e inteligentes, criando a eco house e
+automação, pensando em levar para todos formas de facilitar a vida cotidiana e
+auxiliar o meio ambiente pensando em futuro melhor.</p>
                 </div>
                 <br><br>
                 <!--<div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>-->
@@ -334,7 +352,16 @@
                   </div>
                 </div>
                 <div class="content clearfix">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum</p>
+                  <p>Nascido e criado por uma familia humilde, sempre
+tive a ideia de emprender, mesmo muitos tendo uma visao diferente por emprender,
+vejo sempre novas oportunidades, todos temos dificuldades na vida, porem só
+poucos veem nelas uma forma de negocio, barreiras temos todos os dias, porem
+sempre que pensamos em desistir, lembresse, nada vem facil, após criar minha
+primeira empresa comecei ver novos rumos e horizontes, a mente fica criando sempre
+novas ideias, assim surgiu a ideia de entrar em uns dos maiores mercados do furuto,
+o mercado de casas autosustentaveis e inteligentes, criando a eco house e
+automação, pensando em levar para todos formas de facilitar a vida cotidiana e
+auxiliar o meio ambiente pensando em futuro melhor.</p>
                 </div>
                 <br><br>
                 <!--<div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>-->
