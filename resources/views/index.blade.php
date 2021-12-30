@@ -362,7 +362,7 @@
     <footer class="sec-padding footer-bg footer-bg3">
       <div class="container clearfix">
         <div class="row">
-          <div class="widget about-us-widget col-md-3 col-sm-6"><a href="#"><img src="images/header/logo.png" alt=""></a>
+          <div class="widget about-us-widget col-md-3 col-sm-6"><a href="#"><img src="images/header/logo3.png" alt=""></a>
             <p>Siga em nossas redes sociais instagram, facebook e twitter.</p><!--<a href="about.html">Read More <i class="fa fa-angle-double-right"></i></a>-->
             <ul class="nav">
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
