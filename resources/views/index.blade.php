@@ -320,9 +320,9 @@ auxiliar o meio ambiente pensando em futuro melhor.</p>
               </div>
               <div class="item">
                 <div class="name-content clearfix">
-                  <div class="tst-img"><img src="images/testimonial/william.jpg" alt=""></div>
+                  <div class="tst-img"><img src="images/testimonial/allan.jpg" alt=""></div>
                   <div class="client-name">
-                    <p><span>Wiliam Valter(CEO & Founder)</span></p>
+                    <p><span>Allan Junior Heineck</span></p>
                     <ul>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -333,45 +333,10 @@ auxiliar o meio ambiente pensando em futuro melhor.</p>
                   </div>
                 </div>
                 <div class="content clearfix">
-                  <p>Nascido e criado por uma familia humilde, sempre
-tive a ideia de emprender, mesmo muitos tendo uma visao diferente por emprender,
-vejo sempre novas oportunidades, todos temos dificuldades na vida, porem só
-poucos veem nelas uma forma de negocio, barreiras temos todos os dias, porem
-sempre que pensamos em desistir, lembresse, nada vem facil, após criar minha
-primeira empresa comecei ver novos rumos e horizontes, a mente fica criando sempre
-novas ideias, assim surgiu a ideia de entrar em uns dos maiores mercados do furuto,
-o mercado de casas autosustentaveis e inteligentes, criando a eco house e
-automação, pensando em levar para todos formas de facilitar a vida cotidiana e
-auxiliar o meio ambiente pensando em futuro melhor.</p>
-                </div>
-                <br><br>
-                <!--<div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>-->
-              </div>
-              <div class="item">
-                <div class="name-content clearfix">
-                  <div class="tst-img"><img src="images/testimonial/william.jpg" alt=""></div>
-                  <div class="client-name">
-                  <p><span>Wiliam Valter(CEO & Founder)</span></p>
-                    <ul>
-                      <li><a href="#"><i class="fa fa-star"></i></a></li>
-                      <li><a href="#"><i class="fa fa-star"></i></a></li>
-                      <li><a href="#"><i class="fa fa-star"></i></a></li>
-                      <li><a href="#"><i class="fa fa-star"></i></a></li>
-                      <li><a href="#"><i class="fa fa-star"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="content clearfix">
-                  <p>Nascido e criado por uma familia humilde, sempre
-tive a ideia de emprender, mesmo muitos tendo uma visao diferente por emprender,
-vejo sempre novas oportunidades, todos temos dificuldades na vida, porem só
-poucos veem nelas uma forma de negocio, barreiras temos todos os dias, porem
-sempre que pensamos em desistir, lembresse, nada vem facil, após criar minha
-primeira empresa comecei ver novos rumos e horizontes, a mente fica criando sempre
-novas ideias, assim surgiu a ideia de entrar em uns dos maiores mercados do furuto,
-o mercado de casas autosustentaveis e inteligentes, criando a eco house e
-automação, pensando em levar para todos formas de facilitar a vida cotidiana e
-auxiliar o meio ambiente pensando em futuro melhor.</p>
+                  <p>Nascido no dia 16/01/1999, 23 anos, Formado em Redes e servidores, Técnico em Fibra óptica, 
+                    Sócio empresário na empresa WA Telecom e também na empresa EcoHouse Automação, 
+                    amante e estudante no ramo da tecnologia buscando qualificação profissional no mercado de 
+                    trabalho visando sempre  ajudar e principal foco facilitar a vida das pessoas em seu cotidiano.</p>
                 </div>
                 <br><br>
                 <!--<div class="sign text-right"><img src="images/testimonial/sign-n.png" alt=""></div>-->
@@ -381,8 +346,7 @@ auxiliar o meio ambiente pensando em futuro melhor.</p>
         </div>
       </div>
     </section>
-    
-    
+  
     <!-- Indurial Solution-->
     <section class="indurial-t-solution indurial-solution indpad anim-5-all indurial-t-solution3">
       <div class="container clearfix">
