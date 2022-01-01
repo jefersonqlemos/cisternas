@@ -130,6 +130,9 @@
         </div>
       </div>
       <!-- Main Navigation-->
+      <a href="https://api.whatsapp.com/send?phone=554991612223" class="float-whatsapp" target="_blank">
+        <i class="fa fa-whatsapp my-float-whatsapp"></i>
+      </a>
     </header>
     <!-- =========home banner start============-->
     <div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider full_width ver_new_1_slider">

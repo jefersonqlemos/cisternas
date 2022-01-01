@@ -319,6 +319,24 @@ body {
   3. header top styles
 ============================== */
 
+.float-whatsapp{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+    font-size:30px;
+    z-index:100;
+}
+
+.my-float-whatsapp{
+	margin-top:16px;
+}
+
 .wel-band {
     background: #093660;
     font: 300 1em/1em "Open Sans", sans-serif;
