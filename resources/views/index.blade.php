@@ -322,7 +322,7 @@ auxiliar o meio ambiente pensando em futuro melhor.</p>
                 <div class="name-content clearfix">
                   <div class="tst-img"><img src="images/testimonial/allan.jpg" alt=""></div>
                   <div class="client-name">
-                    <p><span>Allan Junior Heineck</span></p>
+                    <p><span>Allan Junior Heineck(CEO & Founder)</span></p>
                     <ul>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
                       <li><a href="#"><i class="fa fa-star"></i></a></li>
