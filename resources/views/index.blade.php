@@ -52,7 +52,7 @@
     <!-- We offer Different Services-->
     <section class="diff-offer-wrapper">
       <div class="container">
-        <div class="row diff-offer">
+        <div class="row diff-offer" id="lermais">
           <ul>
             <li class="we-offer-cont">
               <h2>Oferecemos<span>Diferente Serviços</span></h2>
@@ -63,7 +63,7 @@
           </ul>
         </div>
         <div class="row">
-          <div id="lermais" class="col-sm-4 service-info">
+          <div class="col-sm-4 service-info">
             <div class="item"><a href="agricultural.html" class="post-image view image_hover">			<img src="images/services/cisternas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Instalação de Cisternas</h4></a>
                 <p>Além de reutilizar a água para afazeres domesticos estaremos 
