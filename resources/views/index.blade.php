@@ -139,14 +139,75 @@
             Temos um controle de qualidade de alto nível em conformidade com os regulamentos e normas de segurança nacionais
           </p>
         </div>
+
         <div class="vision-wrapper text-center">
           <ul>
-            <li><a id="vision" href="javascript:void(0)"><img src="images/services/ser-icon4.png" alt="">
+            <li><a id="vision" data-toggle="modal" href="" data-target="#exampleModalCenter1"><img src="images/services/ser-icon4.png" alt="">
                 <p>Visão</p></a></li>
-            <li><a id="values" href="javascript:void(0)"><img src="images/services/ser-icon5.png" alt="">
+                <!-- Modal -->
+                  <div class="modal fade" id="exampleModalCenter1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <br><br><br><br>
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">VISÃO</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          SER RECONHECIDA POR OFERECER PRODUTOS E SERVIÇOS DE QUALIDADE COM ATENDIMENTO QUALIFICADO AO CLIENTE.
+                        </div>
+                        <div class="modal-footer">
+                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+            <li><a id="values" data-toggle="modal" href="" data-target="#exampleModalCenter2"><img src="images/services/ser-icon5.png" alt="">
                 <p>Valores</p></a></li>
-            <li><a id="mission" href="javascript:void(0)"><img src="images/services/ser-icon6.png" alt="">
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                  <br><br><br><br>  
+                  <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">VALORES</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          SEMPRE QUERENDO LEVAR NOVOS PRODUTOS DE QUALIDADE, FAZENDO SERVIÇOS COM SEGURANÇA, CRIANDO CADA VEZ MAIS CONHECIMENTO POIS A TECNOLOGIA NAO PARA,  ATENDIMENTO AO CLIENTE SEMPRE COM EXCELENCIA.
+                        </div>
+                        <div class="modal-footer">
+                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+            <li><a id="mission" data-toggle="modal" href="" data-target="#exampleModalCenter3"><img src="images/services/ser-icon6.png" alt="">
                 <p>Missão</p></a></li>
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModalCenter3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                  <br><br><br><br>  
+                  <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">MISSÃO</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          CRIAR UM FUTURO INTELIGENTE E AUTOSSUSTENTAVEL CAPAZ DE NOS AUXILIAR NOS AFAZERES DIARIOS E LEVANDO A IDEIA DE SUSTENTABILIDADE A TODOS.
+                        </div>
+                        <div class="modal-footer">
+                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
           </ul>
         </div>
       </div>
