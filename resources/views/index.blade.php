@@ -15,7 +15,7 @@
               <div class="box valign-top">
                 <div class="content text-left pull-right">
                   <h1 data-animation="animated fadeInLeft" class="bnrfnt40">Instalação de Cisternas<br></h1>
-                  <p data-animation="animated fadeInRight" class="pln_he">Cisterna é um reservatório econômico e sustentável <br>que faz a captação e armazenamento da água da chuva, <br>que pode ser usada para diversas atividades domésticas.</p><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn btn0">Ler Mais</a><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">Contratar Serviço</a>
+                  <p data-animation="animated fadeInRight" class="pln_he">Cisterna é um reservatório econômico e sustentável <br>que faz a captação e armazenamento da água da chuva, <br>que pode ser usada para diversas atividades domésticas.</p><a data-animation="animated fadeInUp" href="#lermais" class="view-all hvr-bounce-to-right slide_learn_btn btn btn0">Ler Mais</a><a data-animation="animated fadeInUp" href="catalogocisternas" class="view-all hvr-bounce-to-right slide_learn_btn btn">Contratar Serviço</a>
                 </div>
               </div>
             </div>
@@ -27,7 +27,7 @@
               <div class="box valign-top">
                 <div class="content text-left pull-right">
                   <h1 data-animation="animated fadeInLeft" class="bnrfnt40">Instalação de Calhas<br></h1>
-                  <p data-animation="animated fadeInRight" class="pln_he">As calhas tem a função de coletar as águas da chuva que caem no telhado<br>e direcioná-las para a rede pública de águas pluviais ou para o reservatório<br>inferior do sistema de reuso de água, que está se tornando cada vez mais comum.</p><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn btn0">Ler Mais</a><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">Contratar Serviço</a>
+                  <p data-animation="animated fadeInRight" class="pln_he">As calhas tem a função de coletar as águas da chuva que caem no telhado<br>e direcioná-las para a rede pública de águas pluviais ou para o reservatório<br>inferior do sistema de reuso de água, que está se tornando cada vez mais comum.</p><a data-animation="animated fadeInUp" href="#lermais" class="view-all hvr-bounce-to-right slide_learn_btn btn btn0">Ler Mais</a><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">Contratar Serviço</a>
                 </div>
               </div>
             </div>
@@ -39,7 +39,7 @@
               <div class="box valign-top">
                 <div class="content text-left pull-right">
                   <h1 data-animation="animated fadeInUp" class="bnrfnt40">Lavação de telhados e calhas<br></h1>
-                  <p data-animation="animated fadeInDown" class="pln_he">Seja com jato de água, limpeza de telhado a seco, usando<br>produtos de limpeza especializados ou apenas água sanitária, é <br>importante garantir uma limpeza cuidadosa e correta da sua cobertura.</p><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn btn0">ler mais</a><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">Contratar Serviço</a>
+                  <p data-animation="animated fadeInDown" class="pln_he">Seja com jato de água, limpeza de telhado a seco, usando<br>produtos de limpeza especializados ou apenas água sanitária, é <br>importante garantir uma limpeza cuidadosa e correta da sua cobertura.</p><a data-animation="animated fadeInUp" href="#lermais" class="view-all hvr-bounce-to-right slide_learn_btn btn btn0">ler mais</a><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">Contratar Serviço</a>
                 </div>
               </div>
             </div>
@@ -63,13 +63,39 @@
           </ul>
         </div>
         <div class="row">
-          <div class="col-sm-4 service-info">
+          <div id="lermais" class="col-sm-4 service-info">
             <div class="item"><a href="agricultural.html" class="post-image view image_hover">			<img src="images/services/cisternas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Instalação de Cisternas</h4></a>
-              <p>Além de reutilizar a água para afazeres domesticos estaremos 
+                <p>Além de reutilizar a água para afazeres domesticos estaremos 
                 ajudando o meio ambiente, pois é uma fonte de água renovavel. 
                 Atualmente gastamos...</p>
-              <h6><a href="mechanical.html">Ver Mais</a></h6>
+              <h6><a data-toggle="modal" href="" data-target="#ModalVerMais1">Ler Mais</a></h6>
+                <!-- Modal -->
+                  <div class="modal fade" id="ModalVerMais1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <br><br><br>
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">INSTALAÇÃO DE CISTERNAS</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                        <img src="images/services/cisternas.jpg" alt="" class="img-responsive zoom_img_effect">
+                          
+                        </div>
+                        <div class="modal-footer">
+                        ALÉM DE REUTILIZAR A ÁGUA PARA AFAZERES DOMESTICOS ESTAREMOS AJUDANDO O MEIO AMBIENTE, POIS É UMA FONTE DE ÁGUA RENOVAVEL. 
+ATUALMENTE GASTAMOS APROXIMADAMENTE ENTRE 20 E 40% DA CONTA DE ÁGUA PARA REGAR PLANTAS, LAVAR CARROS, LAVAR AREAS EXTERNAS ENTRE OUTROS. 
+GRAÇAS A GRANDE TECNOLOGIA INVESTIDA NA CONSTRUÇÃO DA CISTERNA PARA SE CHEGAR A UM PRODUTO TOTALMENTE INOVADOR E SUSTENTAVEL É POSSIVEL SE OBTER ÁGUA DE MANEIRA SIMPLES E ECOLOGICA. 
+A CISTERNA POSSUI 5 MODELOS PARA ATENDER DIFERENTES DEMANDAS E UM SMART FILTRO CLORADOR PARA SE OBTER UMA ÁGUA MAIS LIMPA.
+                        <br><br>
+                        <button type="button" onclick="location.href='catalogocisternas'" class="btn btn-success">CONTRATAR SERVIÇO</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
             </div>
           </div>
           <div class="col-sm-4 service-info">
@@ -79,7 +105,30 @@
                 tubulacao da cisterna, tambem sao responsaveis por auxiliar em dias de chuva não 
                 deixando criar...
                 </p>
-              <h6><a href="agricultural.html">Ver Mais</a></h6>
+              <h6><a data-toggle="modal" href="" data-target="#ModalVerMais2">Ler Mais</a></h6>
+              <!-- Modal -->
+              <div class="modal fade" id="ModalVerMais2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <br><br><br>
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">INSTALAÇÃO DE CALHAS</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                        <img src="images/services/calhas.jpg" alt="" class="img-responsive zoom_img_effect">
+                          
+                        </div>
+                        <div class="modal-footer">
+                        AS CALHAS SAO UTILIZADAS PARA DIRECIONAR O FLUXO DE ÁGUA PARA A TUBULACAO DA CISTERNA, TAMBEM SAO RESPONSAVEIS POR AUXILIAR EM DIAS DE CHUVA NAO DEIXANDO CRIAR POSAS AO REDOR DA RESIDENCIA.
+                        <br><br>
+                        <button type="button" class="btn btn-success">CONTRATAR SERVIÇO</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
             </div>
           </div>
           <div class="col-sm-4 service-info">
@@ -88,7 +137,31 @@
               <p>Atualmente no seculo 21 a maioria das residencias 
                 possuem telhados convencionais e calhas instaladas sendo que as mesmas precisam 
                 de limpezas periodicas...</p>
-              <h6><a href="oil.html">Ver Mais</a></h6>
+              <h6><a data-toggle="modal" href="" data-target="#ModalVerMais3">Ler Mais</a></h6>
+              <!-- Modal -->
+              <div class="modal fade" id="ModalVerMais3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <br><br><br>
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">LAVAÇÃO DE TELHADOS E CALHAS</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                        <img src="images/services/telhas.jpg" alt="" class="img-responsive zoom_img_effect">
+                          
+                        </div>
+                        <div class="modal-footer">
+                        ATUALMENTE NO SECULO 21 A MAIORIA DAS RECIDENCIAS POSSUEM TELHADOS CONVENCIONAIS E CALHAS INSTALADAS SENDO QUE AS MESMAS PRECISAM DE LIMPEZAS PERIODICAS PARA EVITAR ACUMULOS DE SUJEIRA E INTUPIMENTO NAS TUBULAÇÃO DE ÁGUA.
+UMA SIMPLES LIMPEZA NO TELHADO E NAS CALHAS POSSIBILITA UMA MELHOR APARENCIA EXTERNA DA RESIDENCIA E UM MELHOR FLUXO DE ÁGUA NAS CALHAS, FACILITANDO A OBTENÇAO DE ÁGUA NA SUA CISTERNA.
+                        <br><br>
+                        <button type="button" class="btn btn-success">CONTRATAR SERVIÇO</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
             </div>
           </div>
         </div>
@@ -144,7 +217,7 @@
           <ul>
             <li><a id="vision" data-toggle="modal" href="" data-target="#exampleModalCenter1"><img src="images/services/ser-icon4.png" alt="">
                 <p>Visão</p></a></li>
-                <!-- Modal -->
+                  <!-- Modal -->
                   <div class="modal fade" id="exampleModalCenter1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                     <br><br><br><br>
                     <div class="modal-dialog modal-dialog-centered" role="document">
