@@ -32,21 +32,21 @@
           <div class="row">
             <div class="col-sm-4 project-post-info">
               <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/catalogo-cisterna1.jpeg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
+              <div class="info-text"><a href="https://api.whatsapp.com/send?phone=554991612223">
                   <h4>Contratar</h4></a>
                   <p>Cisterna + Serviço</p>
               </div>
             </div>
             <div class="col-sm-4 project-post-info">
               <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/catalogo-cisterna2.jpeg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
+              <div class="info-text"><a href="https://api.whatsapp.com/send?phone=554991612223">
                   <h4>Contratar</h4></a>
                   <p>Cisterna + Serviço</p>
               </div>
             </div>
             <div class="col-sm-4 project-post-info">
               <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/catalogo-cisterna3.jpeg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
+              <div class="info-text"><a href="https://api.whatsapp.com/send?phone=554991612223">
                   <h4>Contratar</h4></a>
                   <p>Cisterna + Serviço</p>
               </div>
@@ -57,21 +57,21 @@
           <div class="row">
             <div class="col-sm-4 project-post-info">
               <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/catalogo-cisterna4.jpeg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
+              <div class="info-text"><a href="https://api.whatsapp.com/send?phone=554991612223">
                   <h4>Contratar</h4></a>
                     <p>Cisterna + Serviço</p>
               </div>
             </div>
             <div class="col-sm-4 project-post-info">
               <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/catalogo-cisterna5.jpeg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
+              <div class="info-text"><a href="https://api.whatsapp.com/send?phone=554991612223">
                   <h4>Contratar</h4></a>
                   <p>Cisterna + Serviço</p>
               </div>
             </div>
             <div class="col-sm-4 project-post-info">
               <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/catalogo-cisterna6.jpeg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
+              <div class="info-text"><a href="https://api.whatsapp.com/send?phone=554991612223">
                   <h4>Contratar</h4></a>
                   <p>Cisterna + Serviço</p>
               </div>
