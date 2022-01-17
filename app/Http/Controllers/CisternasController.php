@@ -11,4 +11,9 @@ class CisternasController extends Controller
     {
         return view('catalogocisternas');
     }
+
+    public function contato()
+    {
+        return view('contato');
+    }
 }

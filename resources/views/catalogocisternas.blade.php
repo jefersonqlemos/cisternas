@@ -5,6 +5,8 @@
 
 @section('content')
 
+<body>
+
 <section class="inner-banner2 clearfix">
       <div class="container clearfix">
         <h2>Catalogo de Cisternas</h2>

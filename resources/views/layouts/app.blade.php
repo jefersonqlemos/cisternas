@@ -33,7 +33,7 @@
       <!-- Logo Section-->
       <div class="container">
         <div class="row pad-logo logo-wrapper">
-          <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12 t-logo"><a href="index-2.html"><img src="images/header/logo.png" alt="logo" class="img-responsive"></a></div>
+          <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12 t-logo"><a href="/"><img src="images/header/logo.png" alt="logo" class="img-responsive"></a></div>
           <div class="col-lg-8 col-md-9 col-sm-12 col-xs-12 text-right">
             <div class="top-two-right">
               <!--<div class="req-button text-right"><a href="request-qoute.html" class="submit">Faça Orçamento</a></div>-->
@@ -81,7 +81,7 @@
                       <li class="has-t-submenu"><a href="/">Home</a>
                       </li>
                       
-                      <li class="has-t-submenu"><a href="solutions.html">Contratar Serviço</a>
+                      <li class="has-t-submenu"><a href="#">Contratar Serviço</a>
                         <ul class="submenu">
                           <li><a href="catalogocisternas">Instalação de Cisternas</a></li>
                           <li><a href="agricultural.html">Instalação de Calhas</a></li>
@@ -93,7 +93,7 @@
                       </li>
                       <li class="has-t-submenu"><a href="about.html">sobre nós</a>
                       </li>
-                      <li class="has-t-submenu"><a href="about.html">contato</a>
+                      <li class="has-t-submenu"><a href="contato">contato</a>
                       </li>
                     </ul>
                     <!--<div class="mobile-link"><a href="request-qoute.html" class="submit">Faça Orçamento</a>
@@ -176,10 +176,10 @@
             <div class="widget-contact-list row m0">
               <ul>
                 <li><a href="/">- Home</a></li>
-                <li><a href="#">- Contratar Serviço</a></li>
+                <li><a href="https://api.whatsapp.com/send?phone=554991612223">- Contratar Serviço</a></li>
                 <li><a href="#">- Loja/Produtos</a></li>
                 <li><a href="news.html">- Sobre Nós</a></li>
-                <li><a href="faq.html">- Contato</a></li>
+                <li><a href="contato">- Contato</a></li>
               </ul>
             </div>
           </div>
@@ -194,7 +194,7 @@
                   <div class="fleft contact_no"><a href="#">49 99161 2223</a></div>
                 </li>
                 <li><i class="fa fa-envelope-o"></i>
-                  <div class="fleft contact_mail"><a href="mailto:info@woodworkshop.com">ecohouseautomacao@outlook.com</a></div>
+                  <div class="fleft contact_mail"><a href="mailto:ecohouseautomacao@outlook.com">ecohouseautomacao@outlook.com</a></div>
                 </li>
                 <li><i class="icon icon-Timer"></i>
                   <div class="fleft service_time">Segunda - Sabado : 9am até 6pm</div>

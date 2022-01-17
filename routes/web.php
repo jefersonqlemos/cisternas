@@ -20,3 +20,5 @@ Route::get('/', function () {
 });
 
 Route::get('catalogocisternas', [CisternasController::class, 'catalogoCisternas']);
+Route::get('contato', [CisternasController::class, 'contato']);
+Route::get('sobre', [CisternasController::class, 'sobre']);
