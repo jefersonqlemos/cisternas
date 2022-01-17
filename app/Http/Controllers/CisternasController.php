@@ -16,4 +16,14 @@ class CisternasController extends Controller
     {
         return view('contato');
     }
+
+    public function sobre()
+    {
+        return view('sobre');
+    }
+
+    public function shop()
+    {
+        return view('shop');
+    }
 }

@@ -89,9 +89,9 @@
                           <li><a href="mechanical.html">Mais de um Serviço</a></li>
                         </ul>
                       </li>
-                      <li class="has-t-submenu"><a href="shop.html">Loja/Produtos</a>
+                      <li class="has-t-submenu"><a href="shop">Loja/Produtos</a>
                       </li>
-                      <li class="has-t-submenu"><a href="about.html">sobre nós</a>
+                      <li class="has-t-submenu"><a href="sobre">sobre nós</a>
                       </li>
                       <li class="has-t-submenu"><a href="contato">contato</a>
                       </li>
@@ -177,8 +177,8 @@
               <ul>
                 <li><a href="/">- Home</a></li>
                 <li><a href="https://api.whatsapp.com/send?phone=554991612223">- Contratar Serviço</a></li>
-                <li><a href="#">- Loja/Produtos</a></li>
-                <li><a href="news.html">- Sobre Nós</a></li>
+                <li><a href="shop">- Loja/Produtos</a></li>
+                <li><a href="sobre">- Sobre Nós</a></li>
                 <li><a href="contato">- Contato</a></li>
               </ul>
             </div>

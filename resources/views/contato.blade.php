@@ -15,7 +15,7 @@
     <section class="breadcumb-wrapper">
       <div class="container clearfix">
         <ul class="breadcumb">
-          <li><a href="index-2.html">Home</a></li>
+          <li><a href="/">Home</a></li>
           <li><span>Contato</span></li>
         </ul>
       </div>

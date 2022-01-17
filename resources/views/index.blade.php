@@ -64,7 +64,7 @@
         </div>
         <div class="row">
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="agricultural.html" class="post-image view image_hover">			<img src="images/services/cisternas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
+            <div class="item"><a href="#" class="post-image view image_hover">			<img src="images/services/cisternas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Instalação de Cisternas</h4></a>
                 <p>Além de reutilizar a água para afazeres domesticos estaremos 
                 ajudando o meio ambiente, pois é uma fonte de água renovavel. 
@@ -99,7 +99,7 @@ A CISTERNA POSSUI 5 MODELOS PARA ATENDER DIFERENTES DEMANDAS E UM SMART FILTRO C
             </div>
           </div>
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="agricultural.html" class="post-image view image_hover"><img src="images/services/calhas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
+            <div class="item"><a href="#" class="post-image view image_hover"><img src="images/services/calhas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Instalação de Calhas</h4></a>
               <p>As calhas sao utilizadas para direcionar o fluxo de água para a 
                 tubulacao da cisterna, tambem sao responsaveis por auxiliar em dias de chuva não 
@@ -132,7 +132,7 @@ A CISTERNA POSSUI 5 MODELOS PARA ATENDER DIFERENTES DEMANDAS E UM SMART FILTRO C
             </div>
           </div>
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="oil.html" class="post-image view image_hover">		<img src="images/services/telhas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="oil.html">
+            <div class="item"><a href="#" class="post-image view image_hover">		<img src="images/services/telhas.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="oil.html">
                 <h4>Lavação de Calhas e Telhas</h4></a>
               <p>Atualmente no seculo 21 a maioria das residencias 
                 possuem telhados convencionais e calhas instaladas sendo que as mesmas precisam 
