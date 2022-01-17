@@ -142,7 +142,7 @@
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="indurial-solution-text text-center">
-              <h2>Se precisar de algum de nossos serviços ... Estamos a disposição</h2><span class="contactus-button2 text-center"><a href="contact.html" class="submit">Contate-nos </a></span>
+              <h2>Se precisar de algum de nossos serviços ... Estamos a disposição</h2><span class="contactus-button2 text-center"><a href="https://api.whatsapp.com/send?phone=554991612223" class="submit">Contate-nos </a></span>
             </div>
           </div>
         </div>
